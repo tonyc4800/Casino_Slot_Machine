@@ -1,5 +1,8 @@
-# Casino_Slot_Machine
+[//]: # (Image Reference)
+[screenshot]: ./misc/CasinoScreenshot.png
 
+# Casino_Slot_Machine
+![Scenarios][screenshot]<br/>
 
 # Project Information
 This is a simple casino 3 slot machine web application. The main goal of the project was to exercise the use of viewstate within a webpage, become familiar with the how the Random class works, and exercise validation. 
