@@ -1,5 +1,5 @@
 [//]: # (Image Reference)
-[screenshot]: ./misc/CasinoScreenshot.png
+[screenshot]: ./misc/ScreenshotCasino.png
 
 # Casino_Slot_Machine
 ![Scenarios][screenshot]<br/>
